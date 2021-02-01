@@ -34,8 +34,8 @@ OMDb API used for fetching data.
 Documentation: http://www.omdbapi.com/
 
 Deployed application: 
-Link: reactmovieapp1.netlify.app
 
+Link: https://reactmovieapp1.netlify.app/
 
  
  
